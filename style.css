@@ -1,5 +1,5 @@
 html {
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 body {
@@ -33,7 +33,7 @@ body {
   background-color: hsla(229, 31%, 21%, 0.9);
   transition: 0.5s;
   display: block;
-  right: 0; 
+  right: 0;
 }
 
 .nav a {
@@ -48,6 +48,10 @@ body {
   text-transform: uppercase;
   padding: 20px 0;
   transition: 0.3s;
+}
+
+.whiteLogo {
+  margin: 35px 0 50px 40px;
 }
 
 .close {
@@ -66,14 +70,19 @@ body {
 }
 
 .login {
-  font-weight: 400!important;
+  font-weight: 400 !important;
   border: 2px solid white;
   border-radius: 5px;
   margin: 0 30px;
-  padding: 5px!important;
+  padding: 5px !important;
 }
 
-
+.socialNav {
+  position: relative;
+  bottom: -350px;
+  left: 120px;
+  padding: 20px;
+}
 
 h1,
 h2 {
