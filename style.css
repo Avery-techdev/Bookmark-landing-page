@@ -20,11 +20,9 @@ h2 {
   font-weight: 500;
 }
 
-
 .container {
   width: 100%;
 }
-
 
 /* This is for the mobile Navigation */
 
@@ -146,7 +144,7 @@ h2 {
 }
 
 .getit-firefox {
-  color: #575A63;
+  color: #575a63;
   background-color: #f7f7f7;
   font-weight: 500;
   text-decoration: none;
@@ -165,7 +163,7 @@ h2 {
   border: none;
   width: 100%;
   padding: 15px;
-  color: #575A63;
+  color: #575a63;
   font-size: 18px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.15);
 }
@@ -174,9 +172,8 @@ h2 {
   position: absolute;
   top: 1117px;
   left: 108px;
-  border-top: 4px solid #FC5857;
+  border-top: 4px solid #fc5857;
   width: 40%;
   display: none;
   padding: 0;
-  
 }
